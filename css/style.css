@@ -56,7 +56,7 @@ body{
 	padding-top: 6rem;
 }
 .background-sec{
-	background-image:url("../images/bg.svg");
+	background-image:url("../images/banner5.svg");
 	height: 80vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -269,7 +269,7 @@ header .navbar-brand img{
 	width: 120px;
 }
 footer {
-	background: url(../images/footer.svg)no-repeat;
+	background: url(../images/footer2.svg)no-repeat;
 	height: 55vh;
 	background-size: cover;
 	position: relative;
